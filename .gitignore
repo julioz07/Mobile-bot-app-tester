@@ -1,0 +1,7 @@
+bot-reports/
+__pycache__/
+*.pyc
+*.apk
+*.aab
+*.apks
+.DS_Store

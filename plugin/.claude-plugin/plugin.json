@@ -1,0 +1,12 @@
+{
+  "name": "mobile-bots",
+  "description": "A fleet of Android emulators (bots) for testing apps and games: create them from device profiles, install builds, play, hunt crashes, check screen sizes and languages, and write test reports.",
+  "version": "0.1.0",
+  "author": {
+    "name": "julioz07"
+  },
+  "homepage": "https://github.com/julioz07/Mobile-bot-app-tester",
+  "repository": "https://github.com/julioz07/Mobile-bot-app-tester",
+  "license": "MIT",
+  "keywords": ["android", "emulator", "testing", "qa", "games", "adb"]
+}

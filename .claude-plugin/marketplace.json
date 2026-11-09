@@ -1,0 +1,15 @@
+{
+  "name": "mobile-bot-app-tester",
+  "description": "Android emulator bots for testing mobile apps and games with Claude Code.",
+  "owner": {
+    "name": "julioz07"
+  },
+  "plugins": [
+    {
+      "name": "mobile-bots",
+      "description": "A fleet of Android emulators (bots) for testing apps and games: create them from device profiles, install builds, play, hunt crashes, check screen sizes and languages, and write test reports.",
+      "source": "./plugin",
+      "category": "testing"
+    }
+  ]
+}
